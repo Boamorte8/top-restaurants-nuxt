@@ -1,8 +1,7 @@
 <template>
   <div>
     <div class="container">
-      <h1>Page not found</h1>
-      <!-- <NuxtLayout name="error">
+      <NuxtLayout name="error">
         <template #header>
           <h1>Page not found</h1>
         </template>
@@ -10,7 +9,7 @@
         <template #redirectEl>
           <NuxtLink to="/">Go Back</NuxtLink>
         </template>
-      </NuxtLayout> -->
+      </NuxtLayout>
     </div>
   </div>
 </template>
